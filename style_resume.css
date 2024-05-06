@@ -1,0 +1,81 @@
+*p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.resumepic{
+    display: flex;
+    justify-content: space-between;
+    text-align: right;
+    color: white;
+
+}
+
+.kennethjob {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.NYCjob {
+    text-decoration: underline;
+    font-style:italic;
+}
+
+ 
+
+a {
+    display: inline block;
+    padding: 1px 1px;
+    margin-top: 02px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+
+}
+
+body {
+    background-color: dimgray;
+    color:white;
+}
+
+p{
+    display: flex;
+    justify-content: right;
+
+}  
+
+.reachme {
+    margin-bottom:0%;
+}
+
+h1{
+    text-decoration: underline;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:dodgerblue;
+    display: flex;
+    justify-content: center;
+    
+}
+*{background-color: dimgray;}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(161, 161, 161)
+    
+}
+
+
+body {
+
+border-radius: 2px;
+
+}
+
